@@ -1,0 +1,6 @@
+spring:
+    elasticsearch:
+      cluster-nodes: 192.168.19.131:9300
+logging:
+  level:
+    root:  info
